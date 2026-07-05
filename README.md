@@ -47,11 +47,11 @@ Below is the list of domains this repository will cover. Each will be built out 
 
 | # | Domain | Status |
 |---|--------|--------|
-| 1 | 🏦 Banking & Financial Services | 🔲 Planned |
-| 2 | 📈 Finance & Investment Analytics | 🔲 Planned |
-| 3 | 🛡️ Insurance | 🔲 Planned |
-| 4 | 🏥 Healthcare & Life Sciences | 🔲 Planned |
-| 5 | 💊 Pharmaceuticals & Clinical Research | 🔲 Planned |
+| 1 | 🏦 Banking & Financial Services | ✅ Completed |
+| 2 | 📈 Finance & Investment Analytics | ✅ Completed |
+| 3 | 🛡️ Insurance | ✅ Completed |
+| 4 | 🏥 Healthcare & Life Sciences | 🟡 In Progress |
+| 5 | 💊 Pharmaceuticals & Clinical Research | 🟡 In Progress |
 | 6 | 🛒 Retail & E-commerce | 🔲 Planned |
 | 7 | 📣 Marketing & Digital Advertising | 🔲 Planned |
 | 8 | 👥 Human Resources (HR Analytics) | 🔲 Planned |
