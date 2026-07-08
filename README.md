@@ -51,7 +51,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 2 | 📈 Finance & Investment Analytics | ✅ Completed |
 | 3 | 🛡️ Insurance | ✅ Completed |
 | 4 | 🏥 Healthcare & Life Sciences | ✅ Completed |
-| 5 | 💊 Pharmaceuticals & Clinical Research | 🟡 In Progress |
+| 5 | 💊 Pharmaceuticals & Clinical Research | ✅ Completed |
 | 6 | 🛒 Retail & E-commerce | 🔲 Planned |
 | 7 | 📣 Marketing & Digital Advertising | 🔲 Planned |
 | 8 | 👥 Human Resources (HR Analytics) | 🔲 Planned |
