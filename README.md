@@ -52,7 +52,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 3 | 🛡️ Insurance | ✅ Completed |
 | 4 | 🏥 Healthcare & Life Sciences | ✅ Completed |
 | 5 | 💊 Pharmaceuticals & Clinical Research | ✅ Completed |
-| 6 | 🛒 Retail & E-commerce | 🟡 In Progress |
+| 6 | 🛒 Retail & E-commerce | ✅ Completed |
 | 7 | 📣 Marketing & Digital Advertising | 🟡 In Progress |
 | 8 | 👥 Human Resources (HR Analytics) | 🔲 Planned |
 | 9 | 🏭 Manufacturing & Industrial Analytics | 🔲 Planned |
