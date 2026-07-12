@@ -56,7 +56,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 7 | 📣 Marketing & Digital Advertising | ✅ Completed |
 | 8 | 👥 Human Resources (HR Analytics) | ✅ Completed |
 | 9 | 🏭 Manufacturing & Industrial Analytics | ✅ Completed |
-| 10 | 🚚 Supply Chain & Logistics | 🔲 Planned |
+| 10 | 🚚 Supply Chain & Logistics | 🟡 In Progress |
 | 11 | 📡 Telecommunications | 🔲 Planned |
 | 12 | ⚡ Energy & Utilities | 🔲 Planned |
 | 13 | 🏘️ Real Estate | 🔲 Planned |
