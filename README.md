@@ -58,7 +58,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 9 | 🏭 Manufacturing & Industrial Analytics | ✅ Completed |
 | 10 | 🚚 Supply Chain & Logistics | ✅ Completed |
 | 11 | 📡 Telecommunications | ✅ Completed |
-| 12 | ⚡ Energy & Utilities | 🔲 Planned |
+| 12 | ⚡ Energy & Utilities | 🟡 In Progress |
 | 13 | 🏘️ Real Estate | 🔲 Planned |
 | 14 | ✈️ Aviation & Travel | 🔲 Planned |
 | 15 | 🏨 Hospitality & Tourism | 🔲 Planned |
