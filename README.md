@@ -60,8 +60,8 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 11 | 📡 Telecommunications | ✅ Completed |
 | 12 | ⚡ Energy & Utilities | ✅ Completed |
 | 13 | 🏘️ Real Estate | ✅ Completed |
-| 14 | ✈️ Aviation & Travel | 🔲 Planned |
-| 15 | 🏨 Hospitality & Tourism | 🔲 Planned |
+| 14 | ✈️ Aviation & Travel | 🟡 In Progress |
+| 15 | 🏨 Hospitality & Tourism | 🟡 In Progress |
 | 16 | 🎓 Education (EdTech Analytics) | 🔲 Planned |
 | 17 | 🌾 Agriculture & AgriTech | 🔲 Planned |
 | 18 | 🎮 Gaming Industry | 🔲 Planned |
