@@ -62,7 +62,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 13 | 🏘️ Real Estate | ✅ Completed |
 | 14 | ✈️ Aviation & Travel | ✅ Completed |
 | 15 | 🏨 Hospitality & Tourism | ✅ Completed |
-| 16 | 🎓 Education (EdTech Analytics) | 🟡 In Progress |
+| 16 | 🎓 Education (EdTech Analytics) | ✅ Completed |
 | 17 | 🌾 Agriculture & AgriTech | 🟡 In Progress |
 | 18 | 🎮 Gaming Industry | 🔲 Planned |
 | 19 | 🎬 Media & Entertainment (OTT/Streaming) | 🔲 Planned |
