@@ -68,7 +68,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 19 | 🎬 Media & Entertainment (OTT/Streaming) | ✅ Completed |
 | 20 | 📱 Social Media & Consumer Behavior | ✅ Completed |
 | 21 | 🚗 Automotive Industry | 🟡 In Progress |
-| 22 | 🔐 Cybersecurity Analytics | 🔲 Planned |
+| 22 | 🔐 Cybersecurity Analytics | 🟡 In Progress |
 | 23 | 🏛️ Government & Public Policy | 🔲 Planned |
 | 24 | 🌍 Environmental & Climate Analytics | 🔲 Planned |
 | 25 | ⚽ Sports Analytics | 🔲 Planned |
