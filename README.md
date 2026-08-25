@@ -69,7 +69,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 20 | 📱 Social Media & Consumer Behavior | ✅ Completed |
 | 21 | 🚗 Automotive Industry | ✅ Completed |
 | 22 | 🔐 Cybersecurity Analytics | ✅ Completed |
-| 23 | 🏛️ Government & Public Policy | 🟡 In Progress |
+| 23 | 🏛️ Government & Public Policy | ✅ Completed |
 | 24 | 🌍 Environmental & Climate Analytics | 🔲 Planned |
 | 25 | ⚽ Sports Analytics | 🔲 Planned |
 
