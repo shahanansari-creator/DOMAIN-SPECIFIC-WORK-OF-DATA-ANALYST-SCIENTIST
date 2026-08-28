@@ -71,7 +71,7 @@ Below is the list of domains this repository will cover. Each will be built out 
 | 22 | 🔐 Cybersecurity Analytics | ✅ Completed |
 | 23 | 🏛️ Government & Public Policy | ✅ Completed |
 | 24 | 🌍 Environmental & Climate Analytics | ✅ Completed |
-| 25 | ⚽ Sports Analytics | 🔲 Planned |
+| 25 | ⚽ Sports Analytics | 🟡 In Progress |
 
 **Legend:** 🔲 Planned · 🟡 In Progress · ✅ Completed
 
